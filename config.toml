@@ -29,8 +29,8 @@ publishDir = "docs"
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "Django Developer / Freelancer"
+    subtitle = "A full stack web developer in Pune, India"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -46,7 +46,7 @@ publishDir = "docs"
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "Ganesh Khade"
       logoHomeLink = "/"
     # or
     #
