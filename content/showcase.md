@@ -1,7 +1,7 @@
 ---
-title: "Showcase"
-date: "2019-01-18"
-author: "Lorem Ipsum"
+title: "Projects"
+date: "2020-12-11"
+author: "Ganesh Khade"
 ---
 
 ## Header 2
