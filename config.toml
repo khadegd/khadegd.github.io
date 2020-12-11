@@ -11,7 +11,7 @@ publishDir = "docs"
   contentTypeName = "posts"
 
   # "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
@@ -32,7 +32,7 @@ publishDir = "docs"
     title = "Django Developer / Freelancer"
     subtitle = "A full stack web developer in Pune, India"
     keywords = ""
-    copyright = ""
+    copyright = "@khadegd"
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read more"
