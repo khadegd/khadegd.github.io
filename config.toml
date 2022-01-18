@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://khadegd.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Ganesh Khade — Full Stack Web Developer, India'
 paginate = 5
 theme = 'hello-friend'
 
