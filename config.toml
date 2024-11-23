@@ -1,23 +1,31 @@
 baseURL = 'https://ganeshkhade.com/'
 languageCode = 'en-us'
-title = 'Ganesh Khade — Full Stack Web Developer, India'
-paginate = 5
-theme = 'hello-friend'
+title = 'Ganesh Khade'
+theme = 'terminal'
+pagnation.pagerSize = 5
+
+[markup.goldmark.renderer]
+  unsafe = true
+
 
 [params]
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "post"
+  contentTypeName = "posts"
   # "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
   # Enable to show reading time in minutes for posts
   showReadingTime = false
+  # set theme to full screen width
+  fullWidthTheme = false
+  # center theme with default width
+  centerTheme = true
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "Ganesh Khade"
+    subtitle = ""
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -31,7 +39,7 @@ theme = 'hello-friend'
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "Ganesh Khade"
       logoHomeLink = "/"
     # or
     #
